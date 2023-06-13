@@ -51,4 +51,4 @@ The ament_bandit tool has the following command line options:
 
 ## Adding ament_bandit to unit tests
 
-CMake integration is provided by the package [ament_cmake_bandit](https://github.com/ament/ament_lint).
+CMake integration is provided by the package [ament_cmake_bandit](https://github.com/florcabral/ament_bandit/tree/main/ament_cmake_bandit).
